@@ -1,0 +1,5 @@
+# Virtualenv Path
+env/
+
+# Jupiter Notebook Files
+*.ipynb
